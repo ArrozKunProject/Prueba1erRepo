@@ -1,0 +1,27 @@
+h1{
+text-align: center;
+background-color: red;
+border: 10px solid blue;
+color: white;
+padding: 10px;
+border-radius: 5px;
+}
+#a {
+    text-align: center;
+    background-color: blue;
+    border: 10px solid red;
+    border-radius: 5px;
+    padding: 10px;
+}
+p {
+    text-decoration: underline;
+    font-size: 30px;
+    font-weight: bold;
+}
+#click {
+    margin-top: 100px;
+    border: 2px solid red;
+    font-size: 30px;
+    cursor: pointer;
+    border-radius: 10px;
+}
